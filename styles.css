@@ -89,9 +89,6 @@ a{
 
 .proyecto{
     text-align: left;
-    display: flex;
-    flex-direction: column;
-    justify-content: left;
 }
 
 h{
