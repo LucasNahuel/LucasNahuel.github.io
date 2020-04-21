@@ -22,7 +22,7 @@ i{
 
 
 .icono{
-    margin: 0 auto;
+    margin: auto auto;
     text-decoration: bold;
     color: white;
     display: flex;
