@@ -9,7 +9,7 @@ header{
     top: 0px;
     width: 100%;
     z-index: 999;
-    height: 100px;
+    min-height: 100px;
     background-color: #464646;
     display: flex;
     justify-content: center;
