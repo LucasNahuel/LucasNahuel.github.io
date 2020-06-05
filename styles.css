@@ -22,7 +22,7 @@ i{
 
 
 .icono{
-    margin: auto auto;
+    margin: 1rem auto;
     text-decoration: bold;
     color: white;
     display: flex;
@@ -129,7 +129,7 @@ body {
 
 @media (min-width:800px) {
   body {
-    font-size: 18px;
+    font-size: 30px;
   }
 }
 
